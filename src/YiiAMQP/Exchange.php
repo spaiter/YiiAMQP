@@ -48,7 +48,7 @@ class Exchange extends \CComponent
      * Whether or not the exchange should be deleted when all queues have finished using it.
      * @var bool
      */
-    public $autoDelete = true;
+    public $autoDelete = false;
 
     /**
      * @var string the vhost for the exchange
