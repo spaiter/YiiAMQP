@@ -46,7 +46,7 @@ class Queue extends \CComponent
      * Applications can explicitly delete auto-delete queues using the Delete method as normal.
      * @var bool
      */
-    public $autoDelete = true;
+    public $autoDelete = false;
 
     /**
      * @var string the queue status
