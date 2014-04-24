@@ -1,5 +1,5 @@
 {
-    "name" : "amplifier/yii-amqp",
+    "name" : "spaiter/yii-amqp",
     "type": "yii-extension",
     "description": "AMQP adapter for Yii",
     "license": "MIT",
