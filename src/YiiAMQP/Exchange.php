@@ -24,7 +24,7 @@ class Exchange extends \CComponent
      * It is not valid or meaningful to attempt to change the type of an existing exchange.
      * @var string
      */
-    public $type = 'topic';
+    public $type = 'direct';
 
     /**
      * Whether or not the exchange is passive,
